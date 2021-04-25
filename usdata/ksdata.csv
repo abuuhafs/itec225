@@ -1,4 +1,4 @@
-Date,KSDATA.Death,KSDATA.DeathConfirmed
+Date,KSDATA.HospitalizedCurrently,KSDATA.OnVentilatorCurrently
 2020-3-6,0,0
 2020-3-7,0,0
 2020-3-8,0,0

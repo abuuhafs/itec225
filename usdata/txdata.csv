@@ -1,4 +1,4 @@
-Date,TXDATA.Death,TXDATA.DeathConfirmed
+Date,TXDATA.HospitalizedCurrently,TXDATA.OnVentilatorCurrently
 2020-3-3,0,0
 2020-3-4,0,0
 2020-3-5,0,0
